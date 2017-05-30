@@ -15,4 +15,4 @@ Now you have a <i>libftprintf.a</i> file.
 To use my ft_printf function you need to:
 1) Use ft_printf instead of printf
 2) Add ft_printf.h in your code
-3) Link libftprintf.a to your project
+3) Link <i>libftprintf.a</i> to your project
