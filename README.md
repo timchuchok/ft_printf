@@ -11,7 +11,7 @@ make && make clean
 
 <h3>How to use it?</h3>
 
-Now you have a libftprintf.a file.
+Now you have a <i>libftprintf.a</i> file.
 To use my ft_printf function you need to:
 1) Use ft_printf instead of printf
 2) Add ft_printf.h in your code
